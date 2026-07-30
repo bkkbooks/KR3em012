@@ -17,13 +17,13 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3em012_000-jc.yaml, hash: 'sha256:c86a15e8d47732d650f88a05d2d63df6327846c2a56d424fdc7e5c979831f67e'}
+  - {seq: 0, filename: KR3em012_000-jc.yaml, hash: 'sha256:b6f5f52b170c8fc9f7c0336d5cea5d3f65083a4e8a3875157e078ae8f76056d6'}
   - {seq: 1, filename: KR3em012_001-jc.yaml, hash: 'sha256:8e217071f61f873996b6cb4c11fcf9e8b92bb7696964757aaae37e277f599556'}
   - {seq: 2, filename: KR3em012_002-jc.yaml, hash: 'sha256:9eac2a2dc63aaf927f65da32b4d294d553c8665f5e2dcfbfc55fa5bbb72caf0c'}
   - {seq: 3, filename: KR3em012_003-jc.yaml, hash: 'sha256:4a2ffa3c35b06aa20e8a4423e04b6cc119c9c74ea67ff65144e1b603624ee1f8'}
   - {seq: 4, filename: KR3em012_004-jc.yaml, hash: 'sha256:3e3f420c117b1882fffd56967c937b5f402254a0100a68905bb340c057a5cab2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3em012_000-jc.markers.yaml, hash: 'sha256:65bc2da5b2e61ea712ef9aace9310f097f5e6d62a34b1b0b47dac0c3b67d2394'}
+  - {seq: 0, role: markers, filename: assets/KR3em012_000-jc.markers.yaml, hash: 'sha256:f9093d4f8e2314fe431c17f82dde7044e798d41de6b6d03abaeb3938d511ed24'}
   - {seq: 1, role: markers, filename: assets/KR3em012_001-jc.markers.yaml, hash: 'sha256:1bd1e374025b0ecc45e2261adbada84ba835348697177ef91c476d5f36adba11'}
   - {seq: 2, role: markers, filename: assets/KR3em012_002-jc.markers.yaml, hash: 'sha256:1c99076de3b595897a7582c63ab8d9e8356aeaf801e5a784237a47a8e8641d36'}
   - {seq: 3, role: markers, filename: assets/KR3em012_003-jc.markers.yaml, hash: 'sha256:e978ab236234eac7c2312c71290cf38292fb420b3f2db5b05145cd89abd75298'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3em012_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 442
   label: 朱序
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3em012_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 442
     - 859
   label: 張序
@@ -54,8 +54,8 @@ table_of_contents:
     marker_id: KR3em012_jc_000-d4.h1s1
     span:
     - body
-    - 0
-    - 652
+    - 859
+    - 1511
   label: 前跋
   type: section
   level: 1
@@ -739,4 +739,4 @@ table_of_contents:
   label: 治驗存參
   type: section
   level: 2
-hash: sha256:57bdfcda518deafaae42bd25fbf7310d51cada1f64becb2ebc6ea11465eb0391
+hash: sha256:98b8de675520a5dfc30637c2abae40968a9f263476a5b664dd600a23e1f271a9

@@ -17,13 +17,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3em012_000.yaml, hash: 'sha256:4c8f626e2e785bfd16307ea47ccecd4ffbd95faeec7df31b27ace4034c795c73'}
+  - {seq: 0, filename: KR3em012_000.yaml, hash: 'sha256:da833e99c72932a05f45328ba6c822fac097f757fbc757f9c4c033b50005f88e'}
   - {seq: 1, filename: KR3em012_001.yaml, hash: 'sha256:7a1e889134411d665fa74bb7013fcc06bfe4a74c520ce264d05d1c4df99ff545'}
   - {seq: 2, filename: KR3em012_002.yaml, hash: 'sha256:798338961d2574a54a72a3ba978b8a4862e267794586feb151decaf6a50edf69'}
   - {seq: 3, filename: KR3em012_003.yaml, hash: 'sha256:f343b7d9e4bba4ac99d6e4ee5efd85826ebfd90fb7db73649fa82622470f26b6'}
   - {seq: 4, filename: KR3em012_004.yaml, hash: 'sha256:8994cc9df984a3c3980ce159abd28ada173112315748fdcf97c9c9814c06a31c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3em012_000.markers.yaml, hash: 'sha256:824c7cdd9f5205dd66f65a87cfc2c85feea42a6670996faaa4b756f23c3385f2'}
+  - {seq: 0, role: markers, filename: assets/KR3em012_000.markers.yaml, hash: 'sha256:f7f658311793f4080d318332824c74750996b60ee023f1b1903736d1b1ed8e41'}
   - {seq: 1, role: markers, filename: assets/KR3em012_001.markers.yaml, hash: 'sha256:7f40f00acc052bf19a22af34c3b710392ca3e77e8df69790f47b4934eaee2d0f'}
   - {seq: 2, role: markers, filename: assets/KR3em012_002.markers.yaml, hash: 'sha256:ff73c71fac76e7f8c0b09572510fcde8e0fa1feee8b09085ce0507e2688baf20'}
   - {seq: 3, role: markers, filename: assets/KR3em012_003.markers.yaml, hash: 'sha256:cba847f2f226de57208f03b7e489b0df590b4a8f735e6d56862c7f255ac5d82f'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3em012_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 442
   label: 朱序
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3em012_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 442
     - 859
   label: 張序
@@ -54,8 +54,8 @@ table_of_contents:
     marker_id: KR3em012_jc_000-d4.h1s1
     span:
     - body
-    - 0
-    - 652
+    - 859
+    - 1511
   label: 前跋
   type: section
   level: 1
@@ -739,7 +739,7 @@ table_of_contents:
   label: 治驗存參
   type: section
   level: 2
-hash: sha256:54e1cf7814ba40fd50f890c99200447c9d4956eeb293d5eb2266b010c6fa6e8e
+hash: sha256:2ba3ccc3b634285f6326ef0caea12adf41857708bd6fc597760709a362503db5
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
